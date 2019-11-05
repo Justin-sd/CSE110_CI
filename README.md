@@ -1,1 +1,1 @@
-https://travis-ci.org/Justin-sd/CSE110_CI.svg?branch=master
+[![Build Status](https://travis-ci.org/Justin-sd/CSE110_CI.svg?branch=master)](https://travis-ci.org/Justin-sd/CSE110_CI)
